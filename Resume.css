@@ -1,0 +1,56 @@
+body {
+  width: 750px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Didot', sans-serif;
+  background-image: url('http://themes.googleusercontent.com/image?id=1SBilrALlXIPLRAelrnhYjgFyYa09ZeL8cdktIYuaRwQ3kEvcEX-Xz1NjKkrLjtsPxmc7');
+  background-position: center top;
+  background-size: cover;
+  margin: 20;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 35px 35px 35px 35px;
+}
+
+.button {
+  text-align: center;
+}
+
+.everything {
+  display: none;
+}
+
+.profilePic {
+  display: block;
+  margin-left: 20px;
+  float: left;
+  transform: rotate(-10deg);
+  box-shadow: 15px 15px 25px #111;
+}
+
+.personalInfo {
+  text-align: right;
+  font-weight: 100;
+  line-height: .5;
+  margin-bottom: 150px;
+  padding: .15px;
+}
+
+.name {
+  margin-bottom: 30px;
+  text-shadow: 5px 5px 5px #999999;
+}
+
+.education {
+  line-height: 20px;
+}
+
+.workExperience {
+  line-height: 20px;
+}
+
+.relevantExperience {
+  line-height: 20px;
+}
